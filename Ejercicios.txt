@@ -1,0 +1,31 @@
+14. Técnicas algorítmicas
+
+Ejercicio 129. Explique el significado de los siguientes términos en el contexto de la algoritmia:
+
+1. Fuerza bruta.
+
+Creación de algoritmos a partir de la intuición, sin pensar en el coste.
+
+2. Programación voraz.
+
+Estrategia de programación que se basa en escoger la mejor alternativa a cada paso, de tal forma que lo mejor a pequeña escala resulte lo mejor a gran escala.
+
+3. Divide y vencerás.
+
+División de un problema en más pequeños, de tal forma que al solucionarlos y al juntar las soluciones, se obtiene la solución al problema inicial.
+
+4. Programación dinámica.
+
+Resuelve en primer lugar los subproblemas y almacena los resultados para no volver a solucionarlos de nuevo. De tal forma que resulta en una solución más eficiente.
+
+Ejercicio 130. Implemente en Java el problema de la mochila.
+
+
+
+Ejercicio 131. Implemente en Java el cálculo del número del Fibonacci mediante la técnica de programación dinámica. ¿Este algoritmo es óptimo desde el punto de vista de la complejidad espacial? Justifique la respuesta.
+
+Hecho en entregas previas.
+
+Ejercicio 132. Implemente en Java la distancia de edición entre dos palabras según lo expuesto las diapositivas de Dan Jurafsky. No es necesario que almacena la traza para transformar una palabra en otra.
+
+Hecho en la práctica 4.
